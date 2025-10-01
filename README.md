@@ -1,4 +1,4 @@
-# Viet SpeechT5-TTS finetuning
+# Viet SpeechT5-TTS finetuning 🔈
 
 ## Introduction
 Viet-SpeechT5-TTS-finetuning fine-tunes the Microsoft SpeechT5 model for high-quality Vietnamese Text-to-Speech (TTS) synthesis. It offers male and female voices, a Gradio interface for real-time demos, and a Python API for developers and researchers.
@@ -110,14 +110,14 @@ Audio("tests/test_output/tts_output.wav")
   - Voice: Male
   - Output audio:
     
-https://github.com/user-attachments/assets/0fb6a55f-e7a5-43a7-a78f-ec62b1716c50
+  https://github.com/user-attachments/assets/0fb6a55f-e7a5-43a7-a78f-ec62b1716c50
 
 - Example 2:
   - Input text: Thắng lợi trong chiến tranh thế giới thứ hai và chiến tranh Lạnh tiếp tục khẳng định và giữ vững vị thế siêu cường của quốc gia này.
   - Voice: Female
   - Output audio:
 
-https://github.com/user-attachments/assets/ff3baf0f-f55b-4f56-8af7-3f1ab1a0f7f3
+  https://github.com/user-attachments/assets/ff3baf0f-f55b-4f56-8af7-3f1ab1a0f7f3
 
 ## Environment
 - **Python**: 3.8 or higher
